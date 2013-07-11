@@ -1,0 +1,6 @@
+<meta>
+    <info author="RastaOrecha" type="misc" version="1.3.2-9.05365.0" />
+    <script type="server" src="s_reg.lua" />
+    <script type="client" src="c_reg.lua" />
+    <min_mta_version server="1.3.0-9.03739"></min_mta_version>
+</meta>
